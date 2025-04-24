@@ -47,8 +47,6 @@
   </a>
 
   ---
-  
-## 🧠 Terminal Hacker Stats
 
 ![Metrics](https://github.com/RafaPalumbo/RafaPalumbo/blob/main/metrics_renders/github-metrics.svg)
 
