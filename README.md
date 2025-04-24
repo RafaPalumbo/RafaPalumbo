@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/network.png" width="40" height="40" title="Redes" alt="Network Fundamentals"/>
-  <img src="https://img.icons8.com/ios-filled/50/cloud.png" width="40" height="40" title="Cloud Computing" alt="Cloud"/>
+  <img src="https://img.icons8.com/color/48/network.png" width="40" height="40" title="Fundamentos de Redes" alt="Network"/>
+  <img src="https://img.icons8.com/color/48/cloud--v1.png" width="40" height="40" title="Cloud Computing" alt="Cloud"/>
 
 </p>
 
