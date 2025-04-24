@@ -18,8 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/network-card.png" width="40" height="40"/>
+
+  
 </p>
 
 ---
@@ -38,10 +39,10 @@
 
 ---
 
-## 📫 Vamos nos conectar!  
-[![Instagram](https://www.instagram.com/rafapalumbo/)  
+## 📫 Vamos nos conectar!
 
----
+<p align="left">
+  <a href="https://www.instagram.com/rafapalumbo/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+  </a>
 
-## 📈 GitHub Stats
-![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaPalumbo&show_icons=true&theme=radical)
