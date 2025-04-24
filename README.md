@@ -4,7 +4,6 @@
 🎓 Estudante de Sistemas de Informação no IMT  
 🎯 Apaixonado por comunicação estratégica, tecnologia, RPG e storytelling  
 🧠 Em busca de me tornar um mestre da persuasão e do código  
-📍 São Paulo, Brasil
 
 ---
 
