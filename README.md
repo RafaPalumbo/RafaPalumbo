@@ -2,7 +2,7 @@
 ### _Hi there! I'm Rafa_
 
 🎓 Estudante de Sistemas de Informação no IMT  
-🎯 Apaixonado por comunicação estratégica, tecnologia, RPG e storytelling  
+🎯 Apaixonado por comunicação estratégica, tecnologia e storytelling  
 🧠 Em busca de me tornar um mestre da persuasão e do código  
 
 ---
