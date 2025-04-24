@@ -46,3 +46,9 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 
+  ---
+  
+## 🧠 Terminal Hacker Stats
+
+![Metrics](https://github.com/RafaPalumbo/RafaPalumbo/blob/main/github-metrics.svg)
+
