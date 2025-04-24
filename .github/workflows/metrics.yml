@@ -1,9 +1,9 @@
 name: Metrics Terminal Hacker Style
 
 on:
-  schedule: [{cron: "0 * * * *"}]
-  push: {branches: ["main"]}
-  workflow_dispatch:
+  schedule: [{cron: "0 * * * *"}]  # roda todo dia
+  push: {branches: ["main"]}      # roda quando houver push na branch main
+  workflow_dispatch:              # permite rodar manualmente
 
 jobs:
   github-metrics:
@@ -11,12 +11,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          output_action: commit
-          output_path: .
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg                     # nome do arquivo
+          output_action: commit                           # salva o arquivo no repositório
+          token: ${{ secrets.METRICS_TOKEN }}             # seu token de acesso
           base: header, activity, community, repositories, metadata
-          plugin_lines: yes
-          plugin_traffic: yes
+          plugin_lines: yes                               # mostra commits por linha de código
+          plugin_traffic: yes                             # mostra stats de visitas
           config_display: large
           config_timezone: America/Sao_Paulo
