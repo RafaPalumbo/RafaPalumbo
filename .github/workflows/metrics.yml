@@ -1,0 +1,20 @@
+name: Metrics Terminal Hacker Style
+
+on:
+  schedule: [{cron: "0 * * * *"}]
+  push: {branches: ["main"]}
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_traffic: yes
+          config_display: large
+          config_timezone: America/Sao_Paulo
