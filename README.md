@@ -18,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-network-technology-flat-flat-juicy-fish.png" width="40" height="40" title="Fundamentos de Redes" alt="Network Fundamentals"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Network_icon.svg/2048px-Network_icon.svg.png" width="40" height="40" title="Fundamentos de Redes" alt="Network Fundamentals"/>
+
 
 
   
