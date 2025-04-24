@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Fala aí! Eu sou o Rafa
 
-<!--
-**RafaPalumbo/RafaPalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação no IMT  
+🧠 Apaixonado por comunicação estratégica, tecnologia e storytelling  
+🚀 Em busca de me tornar um mestre da persuasão e do código
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo:
+- Python
+- SQL / MySQL
+- Git e GitHub
+- Java
+- Node Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Vamos nos conectar!
+[![Instagram]([https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram-aqui](https://www.instagram.com/rafapalumbo/))
+
