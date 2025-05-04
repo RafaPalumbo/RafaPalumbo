@@ -3,7 +3,7 @@
 
 🎓 Estudante de Sistemas de Informação no IMT  
 🎯 Apaixonado por comunicação estratégica, tecnologia e storytelling  
-🧠 Em busca de me tornar um mestre da persuasão e do código  
+🧠 Em busca de melhorar minha persuasão   
 
 ---
 
