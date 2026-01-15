@@ -32,9 +32,9 @@
 
 ## 🌎 Idiomas  
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 _English — Intermediate (improving daily!)_
-- 🇯🇵 _Japonês — Básico (em estudo!)
-- 🇪🇸 _Espanhol — Básico (em estudo!) 
+- 🇺🇸 English — Intermediate (improving daily!)
+- 🇯🇵 Japonês — Básico (em estudo!)
+- 🇪🇸 Espanhol — Básico (em estudo!) 
 
 ---
 
