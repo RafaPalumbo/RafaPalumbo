@@ -3,7 +3,6 @@
 
 🎓 Estudante de Sistemas de Informação no IMT  
 🎯 Apaixonado por comunicação estratégica, tecnologia e storytelling  
-🧠 Em busca de melhorar minha persuasão   
 
 ---
 
@@ -28,13 +27,14 @@
 ### _Hobbies and interests_
 
 - 🧩 Explorar psicologia da comunicação, persuasão e storytelling  
-- 📚 Ler sobre engenharia social, leis do poder e influência  
 - 🎮 Games imersivos com boas narrativas  
 ---
 
 ## 🌎 Idiomas  
 - 🇧🇷 Português — Nativo  
 - 🇺🇸 _English — Intermediate (improving daily!)_
+- 🇯🇵 _Japonês — Básico (em estudo!)
+- 🇪🇸 _Espanhol — Básico (em estudo!) 
 
 ---
 
