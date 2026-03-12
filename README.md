@@ -39,6 +39,12 @@
 
 ---
 
+## 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/RafaPalumbo/RafaPalumbo/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🌎 Idiomas
 
 🇧🇷 Português — Nativo  
