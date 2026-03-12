@@ -1,78 +1,65 @@
 # 👋 Olá! Eu sou Rafael Palumbo
-### _Hi there! I'm Rafael Palumbo_
 
 🎓 Estudante de **Sistemas de Informação** no **Instituto Mauá de Tecnologia (IMT)**  
-💻 Interessado em **Infraestrutura de TI, Cloud Computing e Desenvolvimento de Software**  
-🚀 Buscando oportunidades para aprender, construir projetos e crescer na área de tecnologia  
+🚀 Construindo projetos reais para aprender e crescer na área de tecnologia  
+💡 Apaixonado por comunicação, storytelling e tecnologia aplicada a pessoas  
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
-
-### _Technologies & Tools_
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/network.png" width="40" height="40" title="Fundamentos de Redes"/>
-  <img src="https://img.icons8.com/color/48/cloud--v1.png" width="40" height="40" title="Cloud Computing"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
 
 ---
 
-# 🚀 Áreas de Interesse
+## 🚀 Projetos
 
-- Infraestrutura de TI  
-- Cloud Computing  
-- Desenvolvimento de Software  
-- Redes e Sistemas  
-- Tecnologia aplicada a negócios  
-
----
-
-# 💡 Sobre mim
-
-Sou estudante de tecnologia com interesse em **infraestrutura, cloud e desenvolvimento**, sempre buscando entender como sistemas funcionam de ponta a ponta.
-
-Gosto de aprender construindo projetos reais, explorando novas tecnologias e desenvolvendo soluções que unem **lógica, estratégia e criatividade**.
-
-Também tenho interesse em **comunicação, psicologia e storytelling**, temas que considero fundamentais para transformar tecnologia em soluções que realmente impactam pessoas.
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [🎮 Cyber Pong](https://github.com/RafaPalumbo/cyberpong) | Jogo de Pong cyberpunk com campanha e mecânicas únicas | JavaScript, HTML, CSS |
+| [🌴 Florida Motorhome Guide](https://github.com/RafaPalumbo/florida_motorhome_guide) | Landing page de alta conversão para produto digital | React, TypeScript, Tailwind |
+| [🔐 VAULT](https://github.com/RafaPalumbo/vault-password-manager) | Gerenciador de senhas no terminal com hash SHA-256 | Python |
 
 ---
 
-# 🌎 Idiomas
-
-🇧🇷 Português — Nativo  
-🇺🇸 English — Intermediate (improving daily)  
-🇯🇵 Japonês — Básico (em estudo)  
-🇪🇸 Espanhol — Básico (em estudo)
-
----
-
-# 📫 Conecte-se comigo
+## 📊 GitHub Stats
 
 <p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RafaPalumbo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPalumbo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<a href="https://www.linkedin.com/in/rafaelpalumbo/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>
-</a>
+---
 
-<a href="https://github.com/RafaPalumbo" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/github.png" width="40" height="40"/>
-</a>
+## 🌎 Idiomas
 
-<a href="mailto:rafaelpalumbo07@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
-</a>
+🇧🇷 Português — Nativo  
+🇺🇸 English — Intermediate  
+🇯🇵 Japonês — Básico (em estudo)  
+🇪🇸 Espanhol — Básico (em estudo)  
 
-<a href="https://www.instagram.com/rafapalumbo/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
-</a>
+---
 
+## 📫 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafaelpalumbo/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:rafaelpalumbo07@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/rafapalumbo/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
