@@ -47,10 +47,13 @@ Atualmente, estou focado em aprender mais sobre:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaPalumbo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPalumbo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="left">
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaPalumbo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPalumbo&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
