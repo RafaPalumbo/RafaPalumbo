@@ -12,9 +12,9 @@ Sou estudante de Sistemas de Informação e venho desenvolvendo projetos prátic
 
 Atualmente, estou focado em aprender mais sobre:
 
-- Desenvolvimento Web
-- Infraestrutura e Cloud Computing
 - Cibersegurança
+- Infraestrutura e Cloud Computing
+- Desenvolvimento Web
 - Git, GitHub e boas práticas de versionamento
 - Projetos com impacto real para usuários
 
