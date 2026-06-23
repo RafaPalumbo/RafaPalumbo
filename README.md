@@ -39,7 +39,7 @@ Atualmente, estou focado em aprender mais sobre:
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🎮 Cyber Pong](https://github.com/RafaPalumbo/cyberpong) | Jogo de Pong com estética cyberpunk, campanha narrativa e mecânicas próprias | JavaScript, HTML, CSS |
+| [🥗 DeltaH / Nutri Esportiva](https://github.com/RafaPalumbo/Nutri_Esportiva_SC) | Aplicação web e mobile para avaliação da taxa de sudorese, perda hídrica e suporte à hidratação esportiva, com histórico, relatórios, equipes, modo offline e sincronização com backend | React Native, Expo, TypeScript, Supabase, PostgreSQL, SQLite, RLS |
 | [🌴 Florida Motorhome Guide](https://github.com/RafaPalumbo/florida_motorhome_guide) | Landing page para produto digital com foco em conversão, responsividade e apresentação profissional | React, TypeScript, Tailwind |
 | [🔐 VAULT](https://github.com/RafaPalumbo/vault-password-manager) | Gerenciador de senhas no terminal com geração de hash SHA-256 | Python |
 
