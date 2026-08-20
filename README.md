@@ -14,7 +14,7 @@ Atualmente, estou focado em aprender mais sobre:
 
 - Cibersegurança
 - Infraestrutura e Cloud Computing
-- Desenvolvimento Web
+- Desenvolvimento 
 - Git, GitHub e boas práticas de versionamento
 - Projetos com impacto real para usuários
 
